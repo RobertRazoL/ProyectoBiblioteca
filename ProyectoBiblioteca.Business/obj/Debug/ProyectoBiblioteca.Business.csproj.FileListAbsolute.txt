@@ -1,0 +1,11 @@
+C:\Robert\SISE\Modulo 3\Desarrollo de Solucion Empresarial\ProyectoBiblioteca\ProyectoBiblioteca.Business\bin\Debug\ProyectoBiblioteca.Business.dll
+C:\Robert\SISE\Modulo 3\Desarrollo de Solucion Empresarial\ProyectoBiblioteca\ProyectoBiblioteca.Business\bin\Debug\ProyectoBiblioteca.Business.pdb
+C:\Robert\SISE\Modulo 3\Desarrollo de Solucion Empresarial\ProyectoBiblioteca\ProyectoBiblioteca.Business\bin\Debug\ProyectoBiblioteca.Data.dll
+C:\Robert\SISE\Modulo 3\Desarrollo de Solucion Empresarial\ProyectoBiblioteca\ProyectoBiblioteca.Business\bin\Debug\ProyectoBiblioteca.Entities.dll
+C:\Robert\SISE\Modulo 3\Desarrollo de Solucion Empresarial\ProyectoBiblioteca\ProyectoBiblioteca.Business\bin\Debug\ProyectoBiblioteca.Data.pdb
+C:\Robert\SISE\Modulo 3\Desarrollo de Solucion Empresarial\ProyectoBiblioteca\ProyectoBiblioteca.Business\bin\Debug\ProyectoBiblioteca.Entities.pdb
+C:\Robert\SISE\Modulo 3\Desarrollo de Solucion Empresarial\ProyectoBiblioteca\ProyectoBiblioteca.Business\obj\Debug\ProyectoBiblioteca.Business.csproj.AssemblyReference.cache
+C:\Robert\SISE\Modulo 3\Desarrollo de Solucion Empresarial\ProyectoBiblioteca\ProyectoBiblioteca.Business\obj\Debug\ProyectoBiblioteca.Business.csproj.CoreCompileInputs.cache
+C:\Robert\SISE\Modulo 3\Desarrollo de Solucion Empresarial\ProyectoBiblioteca\ProyectoBiblioteca.Business\obj\Debug\Proyecto.81240C0C.Up2Date
+C:\Robert\SISE\Modulo 3\Desarrollo de Solucion Empresarial\ProyectoBiblioteca\ProyectoBiblioteca.Business\obj\Debug\ProyectoBiblioteca.Business.dll
+C:\Robert\SISE\Modulo 3\Desarrollo de Solucion Empresarial\ProyectoBiblioteca\ProyectoBiblioteca.Business\obj\Debug\ProyectoBiblioteca.Business.pdb

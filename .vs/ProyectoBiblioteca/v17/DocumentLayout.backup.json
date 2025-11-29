@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3472D799-6D75-4B2B-AFDD-E16EE8F65A58}|ProyectoBiblioteca.Data\\ProyectoBiblioteca.Data.csproj|c:\\robert\\sise\\modulo 3\\desarrollo de solucion empresarial\\proyectobiblioteca\\proyectobiblioteca.data\\repositories\\prestamodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3472D799-6D75-4B2B-AFDD-E16EE8F65A58}|ProyectoBiblioteca.Data\\ProyectoBiblioteca.Data.csproj|solutionrelative:proyectobiblioteca.data\\repositories\\prestamodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53077F4-CF55-48CB-96B0-5AEFA7D5384E}|ProyectoBiblioteca.Entities\\ProyectoBiblioteca.Entities.csproj|C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\proyectobiblioteca.entities\\detalleprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53077F4-CF55-48CB-96B0-5AEFA7D5384E}|ProyectoBiblioteca.Entities\\ProyectoBiblioteca.Entities.csproj|solutionrelative:proyectobiblioteca.entities\\detalleprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53077F4-CF55-48CB-96B0-5AEFA7D5384E}|ProyectoBiblioteca.Entities\\ProyectoBiblioteca.Entities.csproj|C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\proyectobiblioteca.entities\\sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53077F4-CF55-48CB-96B0-5AEFA7D5384E}|ProyectoBiblioteca.Entities\\ProyectoBiblioteca.Entities.csproj|solutionrelative:proyectobiblioteca.entities\\sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8C6FE3-327E-46B9-8003-DE3C33E6BF07}|ProyectoBiblioteca.Business\\ProyectoBiblioteca.Business.csproj|C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\proyectobiblioteca.business\\services\\prestamoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8C6FE3-327E-46B9-8003-DE3C33E6BF07}|ProyectoBiblioteca.Business\\ProyectoBiblioteca.Business.csproj|solutionrelative:proyectobiblioteca.business\\services\\prestamoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sesion.cs",
+              "DocumentMoniker": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca.Entities\\Sesion.cs",
+              "RelativeDocumentMoniker": "ProyectoBiblioteca.Entities\\Sesion.cs",
+              "ToolTip": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca.Entities\\Sesion.cs",
+              "RelativeToolTip": "ProyectoBiblioteca.Entities\\Sesion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T01:25:03.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrestamoService.cs",
+              "DocumentMoniker": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca.Business\\Services\\PrestamoService.cs",
+              "RelativeDocumentMoniker": "ProyectoBiblioteca.Business\\Services\\PrestamoService.cs",
+              "ToolTip": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca.Business\\Services\\PrestamoService.cs",
+              "RelativeToolTip": "ProyectoBiblioteca.Business\\Services\\PrestamoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T01:03:08.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrestamoDAO.cs",
+              "DocumentMoniker": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca.Data\\Repositories\\PrestamoDAO.cs",
+              "RelativeDocumentMoniker": "ProyectoBiblioteca.Data\\Repositories\\PrestamoDAO.cs",
+              "ToolTip": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca.Data\\Repositories\\PrestamoDAO.cs",
+              "RelativeToolTip": "ProyectoBiblioteca.Data\\Repositories\\PrestamoDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T00:41:58.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetallePrestamo.cs",
+              "DocumentMoniker": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca.Entities\\DetallePrestamo.cs",
+              "RelativeDocumentMoniker": "ProyectoBiblioteca.Entities\\DetallePrestamo.cs",
+              "ToolTip": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca.Entities\\DetallePrestamo.cs",
+              "RelativeToolTip": "ProyectoBiblioteca.Entities\\DetallePrestamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T00:04:30.352Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

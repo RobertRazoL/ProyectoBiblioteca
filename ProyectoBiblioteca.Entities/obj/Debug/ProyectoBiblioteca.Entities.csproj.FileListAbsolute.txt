@@ -1,0 +1,6 @@
+C:\Robert\SISE\Modulo 3\Desarrollo de Solucion Empresarial\ProyectoBiblioteca\ProyectoBiblioteca.Entities\bin\Debug\ProyectoBiblioteca.Entities.dll
+C:\Robert\SISE\Modulo 3\Desarrollo de Solucion Empresarial\ProyectoBiblioteca\ProyectoBiblioteca.Entities\bin\Debug\ProyectoBiblioteca.Entities.pdb
+C:\Robert\SISE\Modulo 3\Desarrollo de Solucion Empresarial\ProyectoBiblioteca\ProyectoBiblioteca.Entities\obj\Debug\ProyectoBiblioteca.Entities.csproj.AssemblyReference.cache
+C:\Robert\SISE\Modulo 3\Desarrollo de Solucion Empresarial\ProyectoBiblioteca\ProyectoBiblioteca.Entities\obj\Debug\ProyectoBiblioteca.Entities.csproj.CoreCompileInputs.cache
+C:\Robert\SISE\Modulo 3\Desarrollo de Solucion Empresarial\ProyectoBiblioteca\ProyectoBiblioteca.Entities\obj\Debug\ProyectoBiblioteca.Entities.dll
+C:\Robert\SISE\Modulo 3\Desarrollo de Solucion Empresarial\ProyectoBiblioteca\ProyectoBiblioteca.Entities\obj\Debug\ProyectoBiblioteca.Entities.pdb
