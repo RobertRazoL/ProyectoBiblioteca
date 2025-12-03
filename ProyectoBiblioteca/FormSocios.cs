@@ -41,8 +41,11 @@ namespace ProyectoBiblioteca
                 if (dgvSocios.Columns.Count > 0)
                 {
                     dgvSocios.Columns["IDSocio"].HeaderText = "ID Socio";
+                    dgvSocios.Columns["NombreUsuario"].HeaderText = "Nombre Usuario";
+                    dgvSocios.Columns["Contraseña"].HeaderText = "Contraseña";
                     dgvSocios.Columns["Nombres"].HeaderText = "Nombres";
-                    dgvSocios.Columns["Apellidos"].HeaderText = "Apellidos";
+                    dgvSocios.Columns["ApellidoPaterno"].HeaderText = "Apellido Paterno";
+                    dgvSocios.Columns["ApellidoMaterno"].HeaderText = "Apellido Materno";
                     dgvSocios.Columns["Direccion"].HeaderText = "Dirección";
                     dgvSocios.Columns["Telefono"].HeaderText = "Teléfono";
                     dgvSocios.Columns["Correo"].HeaderText = "Correo";

@@ -11,7 +11,9 @@ namespace ProyectoBiblioteca.Entities
         public int IDAdmin { get; set; }
         public string NombreUsuario { get; set; }
         public string Contraseña { get; set; }
-        public string NombreCompleto { get; set; }
+        public string Nombres { get; set; }
+        public string ApellidoPaterno { get; set; }
+        public string ApellidoMaterno { get; set; }
         public string Rol { get; set; }
         public bool Activo { get; set; }
     }

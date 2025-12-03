@@ -33,7 +33,9 @@ namespace ProyectoBiblioteca.Data.Repositories
                         IDAdmin = Convert.ToInt32(dr["IDAdmin"]),
                         NombreUsuario = dr["NombreUsuario"].ToString(),
                         Contraseña = dr["Contraseña"].ToString(),
-                        NombreCompleto = dr["NombreCompleto"].ToString(),
+                        Nombres = dr["Nombres"].ToString(),
+                        ApellidoPaterno = dr["ApellidoPaterno"].ToString(),
+                        ApellidoMaterno = dr["ApellidoMaterno"].ToString(),
                         Rol = dr["Rol"].ToString()
 
                     };

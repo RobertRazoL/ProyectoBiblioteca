@@ -22,7 +22,7 @@ namespace ProyectoBiblioteca.Data.Repositories
                     cn.Open();
 
                     string query = @"
-                        select A.IDPrestamo, B.Titulo, C.Nombres+' '+C.Apellidos  as NombreSocio, A.FechaPrestamo, A.FechaDevolucion, D.NombreUsuario as AdminUser  from Prestamos A join Libros B on A.IDLibro = B.IDLibro
+                        select A.IDPrestamo, B.Titulo, C.Nombres+' '+C.ApellidoPaterno+' '+C.ApellidoMaterno  as NombreSocio, A.FechaPrestamo, A.FechaDevolucion, D.NombreUsuario as AdminUser  from Prestamos A join Libros B on A.IDLibro = B.IDLibro
                         join Socios C on A.IDSocio = C.IDSocio 
                         join Administradores D on D.IDAdmin = A.IDAdminRegistra order by A.FechaPrestamo DESC";
 

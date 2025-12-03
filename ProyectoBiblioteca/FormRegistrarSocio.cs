@@ -30,8 +30,11 @@ namespace ProyectoBiblioteca
             try
             {
                 Socios nuevoSocio = new Socios();
-                nuevoSocio.Nombres = txtNombre.Text;
-                nuevoSocio.Apellidos = txtApellido.Text;
+                nuevoSocio.NombreUsuario = txtNombreUsuario.Text;
+                nuevoSocio.Contraseña = txtContraseña.Text;
+                nuevoSocio.Nombres = txtNombres.Text;
+                nuevoSocio.ApellidoPaterno = txtApellidoPaterno.Text;
+                nuevoSocio.ApellidoMaterno = txtApellidoMaterno.Text;
                 nuevoSocio.Direccion = txtDireccion.Text;
                 nuevoSocio.Telefono = txtTelefono.Text;
                 nuevoSocio.Correo = txtCorreo.Text;
@@ -48,8 +51,11 @@ namespace ProyectoBiblioteca
         }
         private void LimpiarCampos()
         {
-            txtNombre.Text = "";
-            txtApellido.Text = "";
+            txtNombreUsuario.Text = "";
+            txtContraseña.Text = "";
+            txtNombres.Text = "";
+            txtApellidoPaterno.Text = "";
+            txtApellidoMaterno.Text = "";
             txtDireccion.Text = "";
             txtTelefono.Text = "";
             txtCorreo.Text = "";

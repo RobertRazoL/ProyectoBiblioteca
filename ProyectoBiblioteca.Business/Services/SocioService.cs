@@ -21,11 +21,23 @@ namespace ProyectoBiblioteca.Business.Services
         public void RegistrarSocio(Socios socio)
         {
             //Validaciones básicas
+            if(string.IsNullOrWhiteSpace(socio.NombreUsuario))
+            {
+                throw new Exception("El nombre de usuario es obligatorio.");
+            }
+            if(string.IsNullOrWhiteSpace(socio.Contraseña))
+            {
+                throw new Exception("La contraseña es obligatoria.");
+            }
             if (string.IsNullOrWhiteSpace(socio.Nombres))
             {
                 throw new Exception("El nombre es obligatorio.");
             }
-            if (string.IsNullOrWhiteSpace(socio.Apellidos))
+            if (string.IsNullOrWhiteSpace(socio.ApellidoPaterno))
+            {
+                throw new Exception("Los apellidos son obligatorios.");
+            }
+            if (string.IsNullOrWhiteSpace(socio.ApellidoMaterno))
             {
                 throw new Exception("Los apellidos son obligatorios.");
             }

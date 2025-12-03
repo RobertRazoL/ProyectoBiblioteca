@@ -1,12 +1,69 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{939C459E-A09D-4711-A237-F7976DE8E9AA}|ProyectoBiblioteca\\ProyectoBiblioteca.Presentation.csproj|c:\\robert\\sise\\modulo 3\\desarrollo de solucion empresarial\\proyectobiblioteca\\proyectobiblioteca\\formhistorialprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{939C459E-A09D-4711-A237-F7976DE8E9AA}|ProyectoBiblioteca\\ProyectoBiblioteca.Presentation.csproj|solutionrelative:proyectobiblioteca\\formhistorialprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3472D799-6D75-4B2B-AFDD-E16EE8F65A58}|ProyectoBiblioteca.Data\\ProyectoBiblioteca.Data.csproj|C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\proyectobiblioteca.data\\repositories\\prestamodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3472D799-6D75-4B2B-AFDD-E16EE8F65A58}|ProyectoBiblioteca.Data\\ProyectoBiblioteca.Data.csproj|solutionrelative:proyectobiblioteca.data\\repositories\\prestamodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53077F4-CF55-48CB-96B0-5AEFA7D5384E}|ProyectoBiblioteca.Entities\\ProyectoBiblioteca.Entities.csproj|C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\proyectobiblioteca.entities\\detalleprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53077F4-CF55-48CB-96B0-5AEFA7D5384E}|ProyectoBiblioteca.Entities\\ProyectoBiblioteca.Entities.csproj|solutionrelative:proyectobiblioteca.entities\\detalleprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormHistorialPrestamo.cs",
+              "DocumentMoniker": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca\\FormHistorialPrestamo.cs",
+              "RelativeDocumentMoniker": "ProyectoBiblioteca\\FormHistorialPrestamo.cs",
+              "ToolTip": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca\\FormHistorialPrestamo.cs",
+              "RelativeToolTip": "ProyectoBiblioteca\\FormHistorialPrestamo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:58:48.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetallePrestamo.cs",
+              "DocumentMoniker": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca.Entities\\DetallePrestamo.cs",
+              "RelativeDocumentMoniker": "ProyectoBiblioteca.Entities\\DetallePrestamo.cs",
+              "ToolTip": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca.Entities\\DetallePrestamo.cs",
+              "RelativeToolTip": "ProyectoBiblioteca.Entities\\DetallePrestamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:56:56.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrestamoDAO.cs",
+              "DocumentMoniker": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca.Data\\Repositories\\PrestamoDAO.cs",
+              "RelativeDocumentMoniker": "ProyectoBiblioteca.Data\\Repositories\\PrestamoDAO.cs",
+              "ToolTip": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca.Data\\Repositories\\PrestamoDAO.cs",
+              "RelativeToolTip": "ProyectoBiblioteca.Data\\Repositories\\PrestamoDAO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBgAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:53:32.624Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

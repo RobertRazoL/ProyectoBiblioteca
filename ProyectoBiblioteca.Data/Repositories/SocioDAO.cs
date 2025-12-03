@@ -19,13 +19,16 @@ namespace ProyectoBiblioteca.Data.Repositories
                 {
                     cn.Open();
                     string query = @"
-                        INSERT INTO Socios (Nombres, Apellidos, Direccion, Telefono, Correo, IDAdminRegistra) 
-                        VALUES (@nombres, @apellidos, @direccion, @telefono, @correo, @idAdmin)";
+                        INSERT INTO Socios (NombreUsuario, Contraseña, Nombres, ApellidoPaterno, ApellidoMaterno, Direccion, Telefono, Correo, IDAdminRegistra) 
+                        VALUES (@nombreUsuario, @contraseña, @nombres, @apellidopaterno, @apellidomaterno, @direccion, @telefono, @correo, @idAdmin)";
                     
                     SqlCommand cmd = new SqlCommand(query, cn);
 
+                    cmd.Parameters.AddWithValue("@NombreUsuario", socio.NombreUsuario);
+                    cmd.Parameters.AddWithValue("@Contraseña", socio.Contraseña);
                     cmd.Parameters.AddWithValue("@nombres", socio.Nombres);
-                    cmd.Parameters.AddWithValue("@apellidos", socio.Apellidos);
+                    cmd.Parameters.AddWithValue("@apellidopaterno", socio.ApellidoPaterno);
+                    cmd.Parameters.AddWithValue("@apellidomaterno", socio.ApellidoMaterno);
                     cmd.Parameters.AddWithValue("@direccion", socio.Direccion);
                     cmd.Parameters.AddWithValue("@telefono", socio.Telefono);
                     cmd.Parameters.AddWithValue("@correo", socio.Correo);
@@ -46,15 +49,18 @@ namespace ProyectoBiblioteca.Data.Repositories
                 try
                 {
                     cn.Open();
-                    string query = "SELECT IDSocio, Nombres, Apellidos, Direccion, Telefono, Correo, IDAdminRegistra FROM Socios";
+                    string query = "SELECT IDSocio, NombreUsuario, Contraseña, Nombres, ApellidoPaterno, ApellidoMaterno, Direccion, Telefono, Correo, IDAdminRegistra FROM Socios";
                     SqlCommand cmd = new SqlCommand(query, cn);
                     SqlDataReader dr = cmd.ExecuteReader();
                     while (dr.Read())
                     {
                         Socios socio = new Socios();
                         socio.IDSocio = Convert.ToInt32(dr["IDSocio"]);
+                        socio.NombreUsuario = dr["NombreUsuario"].ToString();
+                        socio.Contraseña = dr["Contraseña"].ToString();
                         socio.Nombres = dr["Nombres"].ToString();
-                        socio.Apellidos = dr["Apellidos"].ToString();
+                        socio.ApellidoPaterno = dr["ApellidoPaterno"].ToString();
+                        socio.ApellidoMaterno = dr["ApellidoMaterno"].ToString();
                         socio.Direccion = dr["Direccion"].ToString();
                         socio.Telefono = dr["Telefono"].ToString();
                         socio.Correo = dr["Correo"].ToString();

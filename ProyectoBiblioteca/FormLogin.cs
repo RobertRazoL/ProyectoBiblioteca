@@ -25,11 +25,11 @@ namespace ProyectoBiblioteca
                 {
                     //Guardamos los datos de inicio de sesión en la clase Sesion
                     Sesion.IDAdmin = administradores.IDAdmin;
-                    Sesion.NombreCompleto = administradores.NombreCompleto;
+                    Sesion.Nombres = administradores.Nombres;
                     Sesion.Rol = administradores.Rol;
                     MessageBox.Show(
                     // Mensaje de bienvenida
-                    $"Bienvenido {administradores.NombreCompleto}",
+                    $"Bienvenido {administradores.Nombres}",
                     "Sistema de Biblioteca",
                     MessageBoxButtons.OK,
                     MessageBoxIcon.Information);

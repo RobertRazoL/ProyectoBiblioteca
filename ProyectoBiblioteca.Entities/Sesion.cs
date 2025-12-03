@@ -12,7 +12,7 @@ namespace ProyectoBiblioteca.Entities
     {
         public static int IDAdmin { get; set; }
         public static string NombreUsuario { get; set; }
-        public static string NombreCompleto { get; set; }
+        public static string Nombres { get; set; }
         public static string Rol { get; set; }
     }
 }
