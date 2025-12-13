@@ -44,6 +44,8 @@
     <Compile Include="Administradores.cs" />
     <Compile Include="DetallePrestamo.cs" />
     <Compile Include="Prestamos.cs" />
+    <Compile Include="ReporteMoroso.cs" />
+    <Compile Include="ReportePrestamo.cs" />
     <Compile Include="Sesion.cs" />
     <Compile Include="Socios.cs" />
     <Compile Include="Libros.cs" />

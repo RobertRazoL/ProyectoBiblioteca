@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{939C459E-A09D-4711-A237-F7976DE8E9AA}|ProyectoBiblioteca\\ProyectoBiblioteca.Presentation.csproj|c:\\robert\\sise\\modulo 3\\desarrollo de solucion empresarial\\proyectobiblioteca\\proyectobiblioteca\\formhistorialprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{939C459E-A09D-4711-A237-F7976DE8E9AA}|ProyectoBiblioteca\\ProyectoBiblioteca.Presentation.csproj|solutionrelative:proyectobiblioteca\\formhistorialprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{939C459E-A09D-4711-A237-F7976DE8E9AA}|ProyectoBiblioteca\\ProyectoBiblioteca.Presentation.csproj|c:\\robert\\sise\\modulo 3\\desarrollo de solucion empresarial\\proyectobiblioteca\\proyectobiblioteca\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{939C459E-A09D-4711-A237-F7976DE8E9AA}|ProyectoBiblioteca\\ProyectoBiblioteca.Presentation.csproj|solutionrelative:proyectobiblioteca\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3472D799-6D75-4B2B-AFDD-E16EE8F65A58}|ProyectoBiblioteca.Data\\ProyectoBiblioteca.Data.csproj|C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\proyectobiblioteca.data\\repositories\\prestamodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{939C459E-A09D-4711-A237-F7976DE8E9AA}|ProyectoBiblioteca\\ProyectoBiblioteca.Presentation.csproj|C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\proyectobiblioteca\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{939C459E-A09D-4711-A237-F7976DE8E9AA}|ProyectoBiblioteca\\ProyectoBiblioteca.Presentation.csproj|solutionrelative:proyectobiblioteca\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{939C459E-A09D-4711-A237-F7976DE8E9AA}|ProyectoBiblioteca\\ProyectoBiblioteca.Presentation.csproj|c:\\robert\\sise\\modulo 3\\desarrollo de solucion empresarial\\proyectobiblioteca\\proyectobiblioteca\\formlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{939C459E-A09D-4711-A237-F7976DE8E9AA}|ProyectoBiblioteca\\ProyectoBiblioteca.Presentation.csproj|solutionrelative:proyectobiblioteca\\formlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{939C459E-A09D-4711-A237-F7976DE8E9AA}|ProyectoBiblioteca\\ProyectoBiblioteca.Presentation.csproj|c:\\robert\\sise\\modulo 3\\desarrollo de solucion empresarial\\proyectobiblioteca\\proyectobiblioteca\\formreportemorosos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{939C459E-A09D-4711-A237-F7976DE8E9AA}|ProyectoBiblioteca\\ProyectoBiblioteca.Presentation.csproj|solutionrelative:proyectobiblioteca\\formreportemorosos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{939C459E-A09D-4711-A237-F7976DE8E9AA}|ProyectoBiblioteca\\ProyectoBiblioteca.Presentation.csproj|c:\\robert\\sise\\modulo 3\\desarrollo de solucion empresarial\\proyectobiblioteca\\proyectobiblioteca\\formreportemorosos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{939C459E-A09D-4711-A237-F7976DE8E9AA}|ProyectoBiblioteca\\ProyectoBiblioteca.Presentation.csproj|solutionrelative:proyectobiblioteca\\formreportemorosos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{939C459E-A09D-4711-A237-F7976DE8E9AA}|ProyectoBiblioteca\\ProyectoBiblioteca.Presentation.csproj|c:\\robert\\sise\\modulo 3\\desarrollo de solucion empresarial\\proyectobiblioteca\\proyectobiblioteca\\rptmorosos.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{939C459E-A09D-4711-A237-F7976DE8E9AA}|ProyectoBiblioteca\\ProyectoBiblioteca.Presentation.csproj|solutionrelative:proyectobiblioteca\\rptmorosos.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53077F4-CF55-48CB-96B0-5AEFA7D5384E}|ProyectoBiblioteca.Entities\\ProyectoBiblioteca.Entities.csproj|C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\proyectobiblioteca.entities\\reportemoroso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53077F4-CF55-48CB-96B0-5AEFA7D5384E}|ProyectoBiblioteca.Entities\\ProyectoBiblioteca.Entities.csproj|solutionrelative:proyectobiblioteca.entities\\reportemoroso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3472D799-6D75-4B2B-AFDD-E16EE8F65A58}|ProyectoBiblioteca.Data\\ProyectoBiblioteca.Data.csproj|c:\\robert\\sise\\modulo 3\\desarrollo de solucion empresarial\\proyectobiblioteca\\proyectobiblioteca.data\\repositories\\prestamodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3472D799-6D75-4B2B-AFDD-E16EE8F65A58}|ProyectoBiblioteca.Data\\ProyectoBiblioteca.Data.csproj|solutionrelative:proyectobiblioteca.data\\repositories\\prestamodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C53077F4-CF55-48CB-96B0-5AEFA7D5384E}|ProyectoBiblioteca.Entities\\ProyectoBiblioteca.Entities.csproj|C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\proyectobiblioteca.entities\\detalleprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C53077F4-CF55-48CB-96B0-5AEFA7D5384E}|ProyectoBiblioteca.Entities\\ProyectoBiblioteca.Entities.csproj|solutionrelative:proyectobiblioteca.entities\\detalleprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +42,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FormHistorialPrestamo.cs",
-              "DocumentMoniker": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca\\FormHistorialPrestamo.cs",
-              "RelativeDocumentMoniker": "ProyectoBiblioteca\\FormHistorialPrestamo.cs",
-              "ToolTip": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca\\FormHistorialPrestamo.cs",
-              "RelativeToolTip": "ProyectoBiblioteca\\FormHistorialPrestamo.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAA4AAAAAAAAAA==",
+              "Title": "FormInicio.cs",
+              "DocumentMoniker": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca\\FormInicio.cs",
+              "RelativeDocumentMoniker": "ProyectoBiblioteca\\FormInicio.cs",
+              "ToolTip": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca\\FormInicio.cs",
+              "RelativeToolTip": "ProyectoBiblioteca\\FormInicio.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAIwGQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T01:58:48.677Z",
+              "WhenOpened": "2025-12-09T18:34:15.239Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DetallePrestamo.cs",
-              "DocumentMoniker": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca.Entities\\DetallePrestamo.cs",
-              "RelativeDocumentMoniker": "ProyectoBiblioteca.Entities\\DetallePrestamo.cs",
-              "ToolTip": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca.Entities\\DetallePrestamo.cs",
-              "RelativeToolTip": "ProyectoBiblioteca.Entities\\DetallePrestamo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "FormLibros.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca\\FormLibros.cs",
+              "RelativeDocumentMoniker": "ProyectoBiblioteca\\FormLibros.cs",
+              "ToolTip": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca\\FormLibros.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoBiblioteca\\FormLibros.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T01:56:56.279Z"
+              "WhenOpened": "2025-12-09T18:33:42.907Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "FormReporteMorosos.cs",
+              "DocumentMoniker": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca\\FormReporteMorosos.cs",
+              "RelativeDocumentMoniker": "ProyectoBiblioteca\\FormReporteMorosos.cs",
+              "ToolTip": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca\\FormReporteMorosos.cs",
+              "RelativeToolTip": "ProyectoBiblioteca\\FormReporteMorosos.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:31:54.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormReporteMorosos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca\\FormReporteMorosos.cs",
+              "RelativeDocumentMoniker": "ProyectoBiblioteca\\FormReporteMorosos.cs",
+              "ToolTip": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca\\FormReporteMorosos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoBiblioteca\\FormReporteMorosos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:30:47.849Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RptMorosos.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca\\RptMorosos.rdlc",
+              "RelativeDocumentMoniker": "ProyectoBiblioteca\\RptMorosos.rdlc",
+              "ToolTip": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca\\RptMorosos.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoBiblioteca\\RptMorosos.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-12-09T18:27:18.268Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "PrestamoDAO.cs",
               "DocumentMoniker": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca.Data\\Repositories\\PrestamoDAO.cs",
               "RelativeDocumentMoniker": "ProyectoBiblioteca.Data\\Repositories\\PrestamoDAO.cs",
               "ToolTip": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca.Data\\Repositories\\PrestamoDAO.cs",
               "RelativeToolTip": "ProyectoBiblioteca.Data\\Repositories\\PrestamoDAO.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBgAAABdAAAAAAAAAA==",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAkwMwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T01:53:32.624Z"
+              "WhenOpened": "2025-12-09T18:21:51.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormInicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca\\FormInicio.cs",
+              "RelativeDocumentMoniker": "ProyectoBiblioteca\\FormInicio.cs",
+              "ToolTip": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca\\FormInicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoBiblioteca\\FormInicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:01:03.099Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReporteMoroso.cs",
+              "DocumentMoniker": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca.Entities\\ReporteMoroso.cs",
+              "RelativeDocumentMoniker": "ProyectoBiblioteca.Entities\\ReporteMoroso.cs",
+              "ToolTip": "C:\\Robert\\SISE\\Modulo 3\\Desarrollo de Solucion Empresarial\\ProyectoBiblioteca\\ProyectoBiblioteca.Entities\\ReporteMoroso.cs",
+              "RelativeToolTip": "ProyectoBiblioteca.Entities\\ReporteMoroso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:55:04.406Z",
+              "EditorCaption": ""
             }
           ]
         }

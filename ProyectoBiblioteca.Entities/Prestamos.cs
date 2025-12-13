@@ -7,14 +7,22 @@ using System.Threading.Tasks;
 
 namespace ProyectoBiblioteca.Entities
 {
+    //Clase que mapea la tabla Prestamos en la base de datos
     public class Prestamos
     {
+        //Propiedades que mapean la tabla Prestamos
         public int IDPrestamo { get; set; }
-        public Libros Libros { get; set; }
-        public Socios Socios { get; set; }
+        public int IDLibro { get; set; }
+        public int IDSocio { get; set; }
         public DateTime FechaPrestamo { get; set; }
         public DateTime FechaDevolucion { get; set; }
-        public Administradores Administradores { get; set; }
+        public int IDAdminRegistra { get; set; }
+
+        //Propiedades adicionales para facilitar consultas
+        public String TituloLibro { get; set; } 
+        public String NombreSocio { get; set; }
+
+
     }
 }
 

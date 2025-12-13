@@ -64,7 +64,19 @@ namespace ProyectoBiblioteca
 
         private void btnPrestarLibro_Click(object sender, EventArgs e)
         {
-            AbrirFormEnPanel(new FormPrestarLibro());
+            // 1. Instanciamos el formulario de Préstamo
+            FormPrestarLibro formulario = new FormPrestarLibro();
+
+            // 2. Lo mostramos como ventana Modal (bloquea la de atrás)
+            // Esto es ideal para transacciones porque obliga a terminar o cancelar antes de seguir.
+            formulario.ShowDialog();
+
+            // (OPCIONAL) 
+            // Si en tu FormInicio tienes una grilla mostrando los libros y su stock,
+            // aquí deberías llamar a tu método de cargar para que se actualice el stock visualmente
+            // justo después de cerrar la ventana de préstamo.
+            // Ejemplo:
+            // CargarGrillaLibros();
         }
 
         private void btnHistorialPrestamo_Click_1(object sender, EventArgs e)
@@ -77,6 +89,26 @@ namespace ProyectoBiblioteca
             this.Close();
         }
 
-       
+        private void btnVerReporte_Click(object sender, EventArgs e)
+        {
+            // Crear la instancia del formulario del reporte
+            FormReportePrestamos formReporte = new FormReportePrestamos();
+
+            // Mostrarlo
+            // ShowDialog() es mejor para reportes porque bloquea la ventana de atrás 
+            // hasta que cierras el reporte (modo modal).
+            formReporte.ShowDialog();
+        }
+
+        private void btnReporteMorosos_Click(object sender, EventArgs e)
+        {
+            // 1. Crear la instancia del formulario del reporte
+            FormReporteMorosos reporte = new FormReporteMorosos();
+
+            // 2. Mostrarlo
+            // Usamos ShowDialog() para que se abra como una ventana "hija" (Modal)
+            // y no deje tocar la ventana de atrás hasta que cierres el reporte.
+            reporte.ShowDialog();
+        }
     }
 }

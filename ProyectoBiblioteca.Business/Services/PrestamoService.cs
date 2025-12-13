@@ -24,7 +24,25 @@ namespace ProyectoBiblioteca.Business.Services
         {
             return prestamoDAO.ListarHistorial();
         }
-        
-        
+
+        public bool RegistrarPrestamo(Prestamos obj, out string mensaje)
+        {
+            // 1. Validaciones de Negocio (Reglas antes de ir a la BD)
+            if (obj.IDLibro == 0)
+            {
+                mensaje = "Debes seleccionar un Libro de la lista.";
+                return false;
+            }
+
+            if (obj.IDSocio == 0)
+            {
+                mensaje = "Debes seleccionar un Socio de la lista.";
+                return false;
+            }
+
+            // 2. Si pasa las validaciones, llamamos al DAO
+            return prestamoDAO.RegistrarPrestamo(obj, out mensaje);
+        }
+
     }
 }

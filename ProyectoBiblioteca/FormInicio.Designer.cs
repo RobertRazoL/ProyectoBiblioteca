@@ -30,6 +30,7 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormInicio));
             this.panel1 = new System.Windows.Forms.Panel();
+            this.btnVerReporte = new System.Windows.Forms.Button();
             this.btnHistorialPrestamo = new System.Windows.Forms.Button();
             this.btnSalir = new System.Windows.Forms.Button();
             this.btnPrestarLibro = new System.Windows.Forms.Button();
@@ -39,6 +40,7 @@
             this.btnRegistrarLibro = new System.Windows.Forms.Button();
             this.btnRegistrarSocio = new System.Windows.Forms.Button();
             this.pnlContenedor = new System.Windows.Forms.Panel();
+            this.btnReporteMorosos = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -46,6 +48,8 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(40)))), ((int)(((byte)(40)))));
+            this.panel1.Controls.Add(this.btnReporteMorosos);
+            this.panel1.Controls.Add(this.btnVerReporte);
             this.panel1.Controls.Add(this.btnHistorialPrestamo);
             this.panel1.Controls.Add(this.btnSalir);
             this.panel1.Controls.Add(this.btnPrestarLibro);
@@ -57,8 +61,18 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(228, 532);
+            this.panel1.Size = new System.Drawing.Size(228, 674);
             this.panel1.TabIndex = 0;
+            // 
+            // btnVerReporte
+            // 
+            this.btnVerReporte.Location = new System.Drawing.Point(24, 483);
+            this.btnVerReporte.Name = "btnVerReporte";
+            this.btnVerReporte.Size = new System.Drawing.Size(184, 37);
+            this.btnVerReporte.TabIndex = 9;
+            this.btnVerReporte.Text = "Reporte de Prestamos";
+            this.btnVerReporte.UseVisualStyleBackColor = true;
+            this.btnVerReporte.Click += new System.EventHandler(this.btnVerReporte_Click);
             // 
             // btnHistorialPrestamo
             // 
@@ -82,7 +96,7 @@
             this.btnSalir.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSalir.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSalir.ForeColor = System.Drawing.Color.White;
-            this.btnSalir.Location = new System.Drawing.Point(22, 476);
+            this.btnSalir.Location = new System.Drawing.Point(22, 585);
             this.btnSalir.Name = "btnSalir";
             this.btnSalir.Size = new System.Drawing.Size(187, 41);
             this.btnSalir.TabIndex = 7;
@@ -181,15 +195,25 @@
             this.pnlContenedor.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pnlContenedor.Location = new System.Drawing.Point(228, 0);
             this.pnlContenedor.Name = "pnlContenedor";
-            this.pnlContenedor.Size = new System.Drawing.Size(633, 532);
+            this.pnlContenedor.Size = new System.Drawing.Size(728, 674);
             this.pnlContenedor.TabIndex = 2;
             this.pnlContenedor.Paint += new System.Windows.Forms.PaintEventHandler(this.pnlContenedor_Paint);
+            // 
+            // btnReporteMorosos
+            // 
+            this.btnReporteMorosos.Location = new System.Drawing.Point(27, 535);
+            this.btnReporteMorosos.Name = "btnReporteMorosos";
+            this.btnReporteMorosos.Size = new System.Drawing.Size(180, 30);
+            this.btnReporteMorosos.TabIndex = 10;
+            this.btnReporteMorosos.Text = "Ver Reporte Morosos";
+            this.btnReporteMorosos.UseVisualStyleBackColor = true;
+            this.btnReporteMorosos.Click += new System.EventHandler(this.btnReporteMorosos_Click);
             // 
             // FormInicio
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(861, 532);
+            this.ClientSize = new System.Drawing.Size(956, 674);
             this.Controls.Add(this.pnlContenedor);
             this.Controls.Add(this.panel1);
             this.Name = "FormInicio";
@@ -214,5 +238,7 @@
         private System.Windows.Forms.Button btnRegistrarSocio;
         private System.Windows.Forms.Panel pnlContenedor;
         private System.Windows.Forms.Button btnHistorialPrestamo;
+        private System.Windows.Forms.Button btnVerReporte;
+        private System.Windows.Forms.Button btnReporteMorosos;
     }
 }
